@@ -1,3 +1,8 @@
+**Script Developer:** Gabriel Mihai Sandu  
+**GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
+
+
 # AI_Subtitle_Translator (RO-EN and EN-RO)
 
 This script translates subtitles from Romanian to English and from English to Romanian by using the M2M100 AI model.
