@@ -8,8 +8,6 @@ The script reads subtitles from a `.srt` file, translates each subtitle line, an
 - `transformers`
 - `sentencepiece`
 - `torch==2.4.1+cu124`
-- `torchvision==0.19.1+cu124`
-- `torchaudio==2.4.1+cu124`
 
 
 
