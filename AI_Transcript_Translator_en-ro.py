@@ -3,13 +3,15 @@
 
 from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
 import torch
+import os
 
 # Define the model name for M2M100 (1.2 billion parameters)
 model_name = "facebook/m2m100_1.2B"
+cache_dir = os.getcwd()  # Set cache directory to current working directory
 
-# Load the tokenizer and model
-tokenizer = M2M100Tokenizer.from_pretrained(model_name)
-model = M2M100ForConditionalGeneration.from_pretrained(model_name)
+# Load the tokenizer and model with specified cache directory
+tokenizer = M2M100Tokenizer.from_pretrained(model_name, cache_dir=cache_dir)
+model = M2M100ForConditionalGeneration.from_pretrained(model_name, cache_dir=cache_dir)
 
 # Ensure the model runs on GPU
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
