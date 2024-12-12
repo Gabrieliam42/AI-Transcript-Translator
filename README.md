@@ -17,6 +17,12 @@ The script reads subtitles from a `.srt` file, translates each subtitle line, an
 
 
 
+
+
+
+
+
+
 <br><br>
 
 
