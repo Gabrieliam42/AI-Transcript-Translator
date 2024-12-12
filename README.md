@@ -9,7 +9,7 @@ The script reads subtitles from a `.srt` file, translates each subtitle line, an
 - `sentencepiece`
 - `torch==2.4.1+cu124`
 
-<br>
+<br><br>
 
 
 
@@ -17,7 +17,7 @@ The script reads subtitles from a `.srt` file, translates each subtitle line, an
 
 
 
-<br>
+<br><br>
 
 
 
