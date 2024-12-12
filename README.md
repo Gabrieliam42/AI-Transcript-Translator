@@ -11,9 +11,9 @@ The script reads subtitles from a `.srt` file, translates each subtitle line, an
 
 
 
-##### AI Involvement
+##### `AI Involvement`
 
-The script's development did not depend on AI tools like ChatGPT, their main use was for creating code comments and descriptions.
+- `The script's development did not depend on AI tools like ChatGPT, their main use was for creating code comments and descriptions.`
 
 
 
