@@ -22,5 +22,6 @@ The script reads subtitles from a `.srt` file, translates each subtitle line, an
 
 
 
+
 **Script Developer:** Gabriel Mihai Sandu  
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
